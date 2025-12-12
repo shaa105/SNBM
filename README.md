@@ -1,4 +1,4 @@
-# 🔐 Smart Network Behaviour Monitor
+# Smart Network Behaviour Monitor
 
 A Python-based tool to monitor network traffic, profile devices, and track the protocols.
 
@@ -10,7 +10,7 @@ This tool is built to help you:
 - Build a showcase project for cybersecurity internships (SOC Analyst, Security Engineer, etc.)
 
 
-## 🚀 Features
+##  Features
 
 ✅ Real-time device detection  
 ✅ Tracks MAC and IP addresses  
@@ -23,7 +23,7 @@ This tool is built to help you:
 - Phase 1: Device Profiling — capturing device MAC and IP addresses.
 - Phase 2: Protocol Profiling — tracking protocols used by each device and updating their profiles.
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.8+
 - Windows or Linux (admin rights required for sniffing)
@@ -73,5 +73,9 @@ When started, the script will:
 - Detect and display new devices and protocol changes
 - Save data to devices.json when stopped via CTRL+C
 
+## Example
+<img width="1338" height="602" alt="example" src="https://github.com/user-attachments/assets/21f8abba-780e-4d95-959c-67c43485b956" />
+
 ## License
+
 This project is open-source under the MIT License.
